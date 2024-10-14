@@ -1,1 +1,1 @@
-Speech-to-Text & Predictive-Text-Generation using ML alogirhtms.
+Speech-to-Text & Predictive-Text-Generation using ML algorithms.
